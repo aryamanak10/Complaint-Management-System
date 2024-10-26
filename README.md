@@ -1,8 +1,8 @@
-# Use-Case Project Report: Data Management for Analytics
+# Complaint Management System
 
 ## Overview
 
-This repository contains the project files for the *Use-Case Project Report*, developed as part of the Data Management for Analytics course. The project focuses on designing and implementing a database system for a complaint management system, particularly useful for small to medium-sized businesses in regulated industries.
+This repository contains the project files for the *Complaint Management System*, developed as part of the Data Management for Analytics course. The project focuses on designing and implementing a database system for a complaint management system, particularly useful for small to medium-sized businesses in regulated industries.
 
 ## Repository Structure
 
